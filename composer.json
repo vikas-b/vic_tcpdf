@@ -1,0 +1,9 @@
+{
+	"name":"vic/vic_tcpdf",
+	"license": "MIT",
+    "type": "project",
+    "description": "Tcpdf for pdf generator",
+    "autoload": {
+        "files": ["lib/VIC/TCPDF/tcpdf.php"]
+    }
+}
